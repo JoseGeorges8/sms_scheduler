@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sms_scheduler.iml" filepath="$PROJECT_DIR$/sms_scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/sms_scheduler_android.iml" filepath="$PROJECT_DIR$/android/sms_scheduler_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/sms_scheduler_example_android.iml" filepath="$PROJECT_DIR$/example/android/sms_scheduler_example_android.iml" />
+    </modules>
+  </component>
+</project>
